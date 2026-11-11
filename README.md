@@ -34,11 +34,17 @@ dio-brute-force-lab/
 - [Arquivo de apoio](scripts/file.txt)
 
 ### images/
-- [Ambiente Metasploitable](images/bf_metasploitable.jpg)
-- [FTP - Teste 1](images/bf_ftp1.jpg)
-- [FTP - Teste 2](images/bf_ftp2.jpg)
-- [DVWA - Teste 1](images/bf_dvwa1.jpg)
-- [SMB - Teste 1](images/bf_smb1.jpg)
+- [Ambiente Metasploitable](images/bf_metasploitable.png)
+- [FTP - Teste 1](images/FTP/bf_ftp1.png)
+- [FTP - Teste 2](images/FTP/bf_ftp2.png)
+- [FTP - Teste Final](images/FTP/bf_acesso_ftp.png)
+- [DVWA - Teste 1](images/DVWA/bf_dvwa1.png)
+- [DVWA - Teste 1](images/DVWA/bf_dvwa2.png)
+- [DVWA - Teste Final](images/DVWA/bf_dvwa3.png)
+- [SMB - Teste 1](images/SMB/bf_smb1.png)
+- [SMB - Teste Inclusão Usuários](images/SMB/bf_smb2.png)
+- [SMB - Teste Enumeração](images/SMB/bf_smb_enum.png)
+- [SMB - Teste Erro e Acerto](images/SMB/bf_smb_error.png)
 
 
 ## ⚠️ Aviso de Uso Responsável
