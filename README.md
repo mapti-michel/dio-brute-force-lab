@@ -31,7 +31,7 @@ dio-brute-force-lab/
 - [Senhas SMB](wordlists/pass_smb.txt)
 
 ### scripts/
-- [Arquivo de apoio](scripts/file.txt)
+- [Arquivo de apoio](scripts/file.md)
 
 ### images/
 - [Ambiente Metasploitable](images/bf_metasploitable.png)
